@@ -4,9 +4,11 @@ Was wir wirklich wissen wollen
 ## Die Arbeit von meinem Papa
 Heute bin ich mit Papa zur Arbeit gefahren. Mein Papa arbeitet in der Schweiz in der Nähe des Flughafens bei der Firma SAP:
 
-<img src="sap-logo.svg" alt="drawing" width="100"/>
+<img src="sap-logo.svg" alt="SAP" width="100"/>
 
 SAP stellt Software her für Unternehmen. Es arbeiten heutzutage mehr als 105.000 Mitarbeiter bei SAP. Die Buchstaben SAP bedeuten: ¨**S**ystem**a**nalyse **P**rogrammentwicklung¨.
+
+Mein Papa hilft den Benutzern der Software, wenn sie nicht funktioniert.
 
 ## Das Büro
 
@@ -24,3 +26,6 @@ Ich muss einen Bericht schreiben mit Markdown, später laden wir ihn ins Interne
 ## Das Essen 
 Das Mittagessen hat mir gut geschmeckt, Ich hatte eine Pizza Margherita, Die Pizza hatte aber zu viel Käse drauf. 
 es hat mit bis jetzt gut gefallen.
+
+## Ein Bild vom Büro
+<img src="circle.jpg" alt="The Circle in Zürich am Flughafen" width="1000"/>
