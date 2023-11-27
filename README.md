@@ -15,9 +15,9 @@ Mein Papa hilft den Benutzern der Software, wenn sie nicht funktioniert.
 ## Das Büro
 
 Ich habe viele Dinge gesehen. Zum Beispiel:
-* dass man im Raum vom Namen Neptun, malen kann auf der Tafel.
-* dass es nebenan noch ein Krankenhaus gibt.
-* das es eine Wand gibt mit Kugeln die magnetisch sind
+* dass man im Raum vom Namen Neptun, malen kann auf der Tafel
+* dass es nebenan noch ein Krankenhaus gibt
+* dass es eine Wand gibt mit Kugeln die magnetisch sind
 * Es gibt ein Laufband, ich bin auf dem Laufband noch gelaufen
 * dann hab ich noch einen grünen Raum gesehen mit einer blauen Decke, der Raum hat so ausgesehen wie die grüne Wiese und ein blauer Himmel
 * Und ich habe noch gesehen dass die Leute die hier arbeiten, z.B. mein Papa, an Schreibtischen und Monitoren am Computer arbeiten, die sehr gross sind
