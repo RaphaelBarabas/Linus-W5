@@ -1,3 +1,5 @@
+<img src="header.jpg" alt="Linus tippt am Computer" width="1000"/>
+
 # Bericht von Linus zum 5W-Tag
 Was wir wirklich wissen wollen
 
@@ -25,7 +27,7 @@ Ich muss einen Bericht schreiben mit Markdown, später laden wir ihn ins Interne
 
 ## Das Essen 
 Das Mittagessen hat mir gut geschmeckt, Ich hatte eine Pizza Margherita, Die Pizza hatte aber zu viel Käse drauf. 
-es hat mit bis jetzt gut gefallen.
+Es hat mit bis jetzt gut gefallen.
 
 ## Ein Bild vom Büro
 <img src="circle.jpg" alt="The Circle in Zürich am Flughafen" width="1000"/>
